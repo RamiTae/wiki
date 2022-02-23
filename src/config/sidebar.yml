@@ -2,21 +2,19 @@
 
 - label: 'Introduction'
   link: '/'
-- label: 'Getting started'
-  link: '/getting-started'
-- label: Usage
+- label: 'README'
+  link: 'README'
+- label: 'Books'
   items:
-    - label: 'Creating docs'
-      link: '/usage/creating-docs'
-    - label: 'Navigation'
-      link: '/usage/navigation'
-    - label: 'Shadowing'
-      link: '/usage/shadowing'
-    - label: 'Using YAML files'
-      link: '/usage/using-yaml-files'
-- label: More
+    - label: '프로그래머의 뇌'
+      link: '/Books/프로그래머의-뇌'
+    - label: 'git-cheatsheet'
+      link: '/Git/git-cheatsheet'
+    - label: 'Top-level-domain'
+      link: '/Network/Top-level-domain'
+- label: 'Python/os_module'
+  link: '/Python/os_module'
+- label: 'More'
   items:
-    - label: FAQ
-      link: /faq
     - label: 'Github'
       link: https://github.com/jpedroschmitz/rocketdocs
